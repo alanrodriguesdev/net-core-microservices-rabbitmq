@@ -4,3 +4,66 @@
 
 /.vs
 /RabbitMQMicroservice/ProducerConsumerRabbitMQ/.vs/ProducerConsumerRabbitMQ/FileContentIndex
+
+# Ignorar arquivos e diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos e diretórios de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos e diretórios do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.dbmdl
+*.bak
+
+# Ignorar arquivos de compilação
+bin/
+obj/
+packages/
+*.dll
+*.exe
+*.pdb
+
+# Ignorar arquivos temporários e de log
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorar diretórios e arquivos específicos do projeto
+*.env
+*.secret
+*.pem
+*.key
+
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite
+
+# Ignorar arquivos gerados automaticamente
+*.class
+*.jar
+*.war
+*.zip
+
+# Ignorar diretórios de dependências
+node_modules/
+vendor/
+
+# Ignorar arquivos de configuração específicos de ambientes
+*.local
+*.config
+
+# Ignorar arquivos de cache
+.cache/
