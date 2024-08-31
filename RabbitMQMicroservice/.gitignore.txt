@@ -1,0 +1,11 @@
+# Ignorar a pasta .vs
+.vs/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos específicos
+secret_config.yml

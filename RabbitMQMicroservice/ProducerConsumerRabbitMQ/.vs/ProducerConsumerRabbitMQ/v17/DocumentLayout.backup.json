@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EC3A72-6F99-4CD1-85C4-E08D98416AF4}|Producer\\Producer.csproj|c:\\projetos-pessoais\\rabbitmqmicroservice\\producerconsumerrabbitmq\\producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EC3A72-6F99-4CD1-85C4-E08D98416AF4}|Producer\\Producer.csproj|solutionrelative:producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sender.cs",
+              "DocumentMoniker": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Producer\\Sender.cs",
+              "RelativeDocumentMoniker": "Producer\\Sender.cs",
+              "ToolTip": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Producer\\Sender.cs",
+              "RelativeToolTip": "Producer\\Sender.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:52:31.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
