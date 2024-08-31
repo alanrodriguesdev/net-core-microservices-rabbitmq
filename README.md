@@ -1,1 +1,1 @@
-# net-core-microservices-rabbitmq
+# net-8-microservices-rabbitmq
