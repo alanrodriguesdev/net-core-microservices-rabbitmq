@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A298B366-1769-4C0C-AAD8-C25F519713F7}|Consumer\\Consumer.csproj|c:\\projetos-pessoais\\rabbitmqmicroservice\\producerconsumerrabbitmq\\consumer\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A298B366-1769-4C0C-AAD8-C25F519713F7}|Consumer\\Consumer.csproj|solutionrelative:consumer\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EC3A72-6F99-4CD1-85C4-E08D98416AF4}|Producer\\Producer.csproj|c:\\projetos-pessoais\\rabbitmqmicroservice\\producerconsumerrabbitmq\\producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EC3A72-6F99-4CD1-85C4-E08D98416AF4}|Producer\\Producer.csproj|solutionrelative:producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Receiver.cs",
-              "DocumentMoniker": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Consumer\\Receiver.cs",
-              "RelativeDocumentMoniker": "Consumer\\Receiver.cs",
-              "ToolTip": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Consumer\\Receiver.cs",
-              "RelativeToolTip": "Consumer\\Receiver.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:11:06.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sender.cs",
-              "DocumentMoniker": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Producer\\Sender.cs",
-              "RelativeDocumentMoniker": "Producer\\Sender.cs",
-              "ToolTip": "C:\\Projetos-Pessoais\\RabbitMQMicroservice\\ProducerConsumerRabbitMQ\\Producer\\Sender.cs",
-              "RelativeToolTip": "Producer\\Sender.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T01:52:31.641Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
